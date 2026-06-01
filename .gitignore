@@ -1,0 +1,13 @@
+*.pth
+*.pyc
+__pycache__
+.idea
+.vscode
+.mypy_cache
+.pytest_cache
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.mat
+wandb
